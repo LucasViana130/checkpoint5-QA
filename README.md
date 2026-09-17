@@ -18,5 +18,4 @@ de login definidos no Plano de Testes do CheckPoint 4 (site de treino
 Os demais status marcados com ✓ no plano (408, 422, 429, 499, 500, 504)
 dependem de comportamento de servidor/infraestrutura que não é possível
 provocar de forma confiável apenas pela interface de um site público de
-terceiros, então não foram incluídos na automação via UI — isso está
-comentado no topo da classe `Login.java`.
+terceiros, então não foram incluídos na automação via UI
